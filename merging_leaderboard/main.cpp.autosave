@@ -4,7 +4,7 @@ using namespace std;
 
 void fill(vector<unsigned> &leaders, vector<unsigned> &player)
 {
-
+	
 }
 
 int main(void)
