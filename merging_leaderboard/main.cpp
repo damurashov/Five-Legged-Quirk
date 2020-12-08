@@ -20,8 +20,10 @@ void fill(VecResults &leaders, VecResults &player)
 	player.assign(istream_iterator<unsigned>(cin), istream_iterator<unsigned>());
 }
 
-int main(void)
+int main(int argc, char *argv)
 {
+	cout << argv[0] << endl;
+
 	VecResults leaders;
 	VecResults players;
 
