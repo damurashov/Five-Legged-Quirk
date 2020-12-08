@@ -18,3 +18,4 @@ run: ./build/__CARCASS__
 
 clean:
 	rm -rf build
+	rm -rf *txt.user
