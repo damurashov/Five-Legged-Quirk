@@ -1,3 +1,0 @@
-/home/sleeplynerd/Documents/coding_tasks/merging_leaderboard/build/CMakeFiles/rebuild_cache.dir
-/home/sleeplynerd/Documents/coding_tasks/merging_leaderboard/build/CMakeFiles/CodeInter.dir
-/home/sleeplynerd/Documents/coding_tasks/merging_leaderboard/build/CMakeFiles/edit_cache.dir
